@@ -2,6 +2,7 @@
 
 Franzininho WiFI LAB01 is an expansion board for the [Franzinho WiFi board](https://github.com/Franzininho/Franzininho-WiFi).
  
+![Franzininho WiFI LAB01 picture](Franzininho-Wifi-lab-01.jpg)
 
 ## Features
 
